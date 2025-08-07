@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+
+# User data - VERY IMPORTANT
+local_data/
+agents.json
